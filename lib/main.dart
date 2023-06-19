@@ -6,7 +6,7 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-  // test
+  // test 2
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
@@ -91,12 +91,13 @@ class _MyHomePageState extends State<MyHomePage> {
           // Column has various properties to control how it sizes itself and
           // how it positions its children. Here we use mainAxisAlignment to
           // center the children vertically; the main axis here is the vertical
-          // axis because Columns are vertical (the cross axis would be
+          // axis because Columns are vertical (the cross axis would beeak
           // horizontal).
+          // ddkdkdkdkdk
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'You have pushed the button this many times:',
+              'feature/1 PR중 수정됨 - 2',
             ),
             Text(
               '$_counter',
