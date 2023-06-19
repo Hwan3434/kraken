@@ -91,12 +91,12 @@ class _MyHomePageState extends State<MyHomePage> {
           // Column has various properties to control how it sizes itself and
           // how it positions its children. Here we use mainAxisAlignment to
           // center the children vertically; the main axis here is the vertical
-          // axis because Columns are vertical (the cross axis would be
+          // axis because Columns are vertical (the cross axis would beeak
           // horizontal).
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'Test2',
+              'Test:ㅁㄴㅇ',
             ),
             Text(
               '$_counter',
