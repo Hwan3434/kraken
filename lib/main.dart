@@ -93,10 +93,11 @@ class _MyHomePageState extends State<MyHomePage> {
           // center the children vertically; the main axis here is the vertical
           // axis because Columns are vertical (the cross axis would beeak
           // horizontal).
+          // ddkdkdkdkdk
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'TestTestTest',
+              'TestTestasdasdasdasdasaaaadasd',
             ),
             Text(
               '$_counter',
