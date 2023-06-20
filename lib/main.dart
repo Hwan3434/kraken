@@ -97,7 +97,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'feature/2 Rebase 햇음 !!!',
+              'PR Comment 테스트를 위한 커밋입니다 :)',
             ),
             Text(
               '$_counter',
